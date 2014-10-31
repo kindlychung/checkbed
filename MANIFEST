@@ -3,6 +3,5 @@ README
 setup.py
 checkbed/Checkcoll.py
 checkbed/__init__.py
-checkbed/util.py
-scripts/bedinfo.py
-scripts/checkcoll.py
+scripts/bedinfo
+scripts/checkcoll
